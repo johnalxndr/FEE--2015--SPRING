@@ -55,7 +55,6 @@ After completing this assignment, you be able to effectively use...
     * a series of commits no more than 1 hour apart (use good "why" messages!)
     * A folder called `docs/` that contains:
         * `HTML.md` -- a Markdown file with your HTML examples
-        * `CSS.md` -- a Markdown file with your CSS examples
     * A folder called `pub/` that contains:
         * `about.html` -- your MF'g version of the "About" page
         * `culture.html` -- your MF'g version of the "Culture" page
